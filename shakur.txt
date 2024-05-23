@@ -1,11 +1,8 @@
-pyhton
-java
+PythoNjava
 c++
 SQL
-new ,a
-wash the kitchen
-cook food
-play piano
+kamau kadilwash the kitchen
+html and cssplay piano
 walk fast
 come with friend
 clean the room
@@ -14,3 +11,8 @@ new default is created
 welcome home
 play tenis
 master python
+learn javascript
+
+DJANGOReactjsKOTLIN
+FirebaseJava
+Nodejs
