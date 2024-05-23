@@ -13,3 +13,4 @@ run 10 kilometers
 new default is created
 welcome home
 play tenis
+master python
